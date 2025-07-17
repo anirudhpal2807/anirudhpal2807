@@ -35,6 +35,7 @@ I specialize in creating robust web applications, designing elegant user interfa
   <a href="https://linkedin.com/in/anirudh-pal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="margin: 10px;" /></a>
   <a href="https://instagram.com/anirudh_jaiker" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" style="margin: 10px;" /></a>
   <a href="https://www.leetcode.com/anirudhpal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="40" height="40" style="margin: 10px;" /></a>
+    <a href="https://remix-of-remix-of-remix-of-anirudh.vercel.app/" target="_blank"><img ></a>
   <a href="https://auth.geeksforgeeks.org/user/palanirudh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" width="40" height="40" style="margin: 10px;" /></a>
 </p>
 
