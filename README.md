@@ -97,6 +97,15 @@ Explore my repositories for hands-on examples! Here are a few highlights with li
 - **[XENO CRM Platform](https://github.com/anirudhpal2807/xeno-crm)**: Role-based dashboard for sales tracking with React and MongoDB.  
   <a href="https://xeno-murex.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-View%20App-green?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
 
+   **[CodeCrest](https://github.com/anirudhpal2807/CodeCrest)**: Built CodeCrest, a full-stack coding & contest platform with real-time leaderboards, secure code execution (Judge0 API), Monaco Editor, and AI-powered chat assistant using the MERN stack.  
+  <a href="https://codecrest-frontend.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-View%20App-green?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
+
+    **[Predusk](https://github.com/anirudhpal2807/Predusk)**: Built Predusk, a modern portfolio platform with user authentication, profile customization, project showcase, skill management, and social links integration using React, TypeScript, Node.js, Express, and MongoDB.  
+  <a href="https://predusk-frontend.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-View%20App-green?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
+
+   **[Task manager](https://github.com/anirudhpal2807/JoyzAI)**: Built a Task Manager  dashboards, task assignment, progress tracking, and secure authentication using React, Node.js, and MongoDB.  
+  <a href="https://joyzai.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-View%20App-green?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
+
 - **[EV Charging Manager](https://github.com/anirudhpal2807/ev-manager)**: Map-based system for electric vehicle stations using Vue and Node.js.
 
 > 📂 Domains I'm passionate about: Real-time web apps, IoT integrations, and user-centric designs. Check my repos for more!
