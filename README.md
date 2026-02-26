@@ -51,25 +51,52 @@ I specialize in creating robust web applications, designing elegant user interfa
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="margin: 10px; background-color: #ffffff; padding: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="margin: 10px; background-color: #ffffff; padding: 5px; border-radius: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="Django" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="50" height="50" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50" style="margin: 10px;" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 10px;" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" style="margin: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google" width="50" height="50" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="50" height="50" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" width="50" height="50" style="margin: 10px;" />
+</p>
+
+### 🤖 AI & Coding Tools
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="Cursor" width="55" height="55" style="margin: 10px; border-radius: 12px;" />
+  <img src="https://static.vecteezy.com/system/resources/previews/067/941/712/non_2x/claude-ai-logo-rounded-hd-free-png.png" alt="Claude AI" width="55" height="55" style="margin: 10px; border-radius: 50%;" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-icon.png" alt="GitHub Copilot" width="55" height="55" style="margin: 10px; border-radius: 12px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Pn87F9Rz0ApaZ-73sr5LRJABLQj5oMWaYf5H8rPFsqKpb9sCDcain0s&s=10" alt="Windsurf" width="55" height="55" style="margin: 10px; border-radius: 12px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHttEIR7RPeaBo5ZCHmRom5lVRUkQ-SYO3sLt7DK9Fyw&s" alt="Lovable" width="55" height="55" style="margin: 10px; border-radius: 12px;" />
 </p>
 
 ---
@@ -89,26 +116,94 @@ I specialize in creating robust web applications, designing elegant user interfa
 
 ## 📌 Featured Projects
 
-Explore my repositories for hands-on examples! Here are a few highlights with live demos:
+Explore my repositories for hands-on examples! These are the **same production projects** showcased on my portfolio site, now with visual previews:
 
-- **[Real-Time Chat App](https://github.com/anirudhpal2807/real-time-chat)**: Scalable messaging with WebRTC and Socket.IO.  
-  <a href="https://chatapp-o9c2z4p3n-palanirudh8299-7050s-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-View%20App-green?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://remix-of-remix-of-remix-of-anirudh.vercel.app/smartbook%20mark.png" alt="Smart Bookmark App" width="100%" />
+        <h3>Smart Bookmark App</h3>
+        <p>Real-time bookmark manager with Google OAuth, secure storage and instant sync across devices.</p>
+        <p><a href="https://github.com/anirudhpal2807/smart-bookmark-app">Code</a> • <a href="https://smart-bookmark-app-eight-mauve.vercel.app/">Live</a></p>
+      </td>
+      <td width="50%">
+        <img src="https://remix-of-remix-of-remix-of-anirudh.vercel.app/codecrest.png" alt="CodeCrest" width="100%" />
+        <h3>CodeCrest</h3>
+        <p>Full-stack coding and contest platform with real-time code execution, leaderboards and AI assistant.</p>
+        <p><a href="https://github.com/anirudhpal2807/CodeCrest">Code</a> • <a href="https://codecrest-frontend.onrender.com">Live</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://remix-of-remix-of-remix-of-anirudh.vercel.app/chatapp.png" alt="Real-Time Chat Application" width="100%" />
+        <h3>Real-Time Chat Application</h3>
+        <p>Scalable chat app with WebRTC calls, private/group chat, file sharing and Socket.IO.</p>
+        <p><a href="https://github.com/anirudhpal2807/Chatapp">Code</a> • <a href="https://chatapp-delta-pied.vercel.app/">Live</a></p>
+      </td>
+      <td width="50%">
+        <img src="https://remix-of-remix-of-remix-of-anirudh.vercel.app/predusk.png" alt="Predusk – Portfolio Platform" width="100%" />
+        <h3>Predusk – Portfolio Platform</h3>
+        <p>Modern portfolio platform with authentication, profile customization, project showcase and discovery.</p>
+        <p><a href="https://github.com/anirudhpal2807/Predusk">Code</a> • <a href="https://predusk-frontend.onrender.com/">Live</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://remix-of-remix-of-remix-of-anirudh.vercel.app/kanban%20Board.png" alt="JoyzAI – Kanban Board" width="100%" />
+        <h3>JoyzAI – Kanban Board</h3>
+        <p>Lightweight Kanban board with drag-and-drop cards for managing tasks across columns.</p>
+        <p><a href="https://github.com/anirudhpal2807/JoyzAI">Code</a> • <a href="https://joyzai.onrender.com/">Live</a></p>
+      </td>
+      <td width="50%">
+        <img src="https://remix-of-remix-of-remix-of-anirudh.vercel.app/lead%20management.png" alt="Lead Management System" width="100%" />
+        <h3>Lead Management System</h3>
+        <p>Lead tracking dashboard with JWT auth, filtering, server-side pagination and AG Grid analytics.</p>
+        <p><a href="https://github.com/anirudhpal2807/Erino_Assignment">Code</a> • <a href="https://erino-assignment-iota.vercel.app/">Live</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://remix-of-remix-of-remix-of-anirudh.vercel.app/map%20pin.png" alt="Map Pinboard Application" width="100%" />
+        <h3>Map Pinboard Application</h3>
+        <p>Interactive map for pinning locations, adding notes and exploring places with OpenStreetMap.</p>
+        <p><a href="https://github.com/anirudhpal2807/Assignment_Intandem">Code</a> • <a href="https://assignment-intandem.vercel.app/">Live</a></p>
+      </td>
+      <td width="50%">
+        <img src="https://remix-of-remix-of-remix-of-anirudh.vercel.app/Document%20Rag%20Assistant.png" alt="Document RAG Assistant" width="100%" />
+        <h3>Document RAG Assistant</h3>
+        <p>AI-powered document Q&A system using RAG with Gemini, Pinecone and LangChain.</p>
+        <p><a href="https://github.com/anirudhpal2807/Document-RAG-Assistant">Code</a> • <a href="https://document-rag-assistant.onrender.com/">Live</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://remix-of-remix-of-remix-of-anirudh.vercel.app/blogapp.png" alt="MERN Stack Blog Application" width="100%" />
+        <h3>MERN Stack Blog Application</h3>
+        <p>Blog platform with JWT auth, rich text editor, image uploads and public/private visibility controls.</p>
+        <p><a href="https://github.com/anirudhpal2807/BlogApp">Code</a> • <a href="https://blogapp-1-3wg3.onrender.com/">Live</a></p>
+      </td>
+      <td width="50%">
+        <img src="https://remix-of-remix-of-remix-of-anirudh.vercel.app/Inventory_System.png" alt="Inventory Management System" width="100%" />
+        <h3>Inventory Management System</h3>
+        <p>Inventory and sales system for material businesses with analytics dashboards and low-stock alerts.</p>
+        <p><a href="https://github.com/anirudhpal2807/Insyd">Code</a> • <a href="https://insyd-2.onrender.com/login">Live</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- **[XENO CRM Platform](https://github.com/anirudhpal2807/xeno-crm)**: Role-based dashboard for sales tracking with React and MongoDB.  
-  <a href="https://xeno-murex.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-View%20App-green?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
+> 📂 Domains I'm passionate about: Real-time web apps, AI-powered tools, IoT integrations, and user-centric designs. Check my repos for more!
 
-   **[CodeCrest](https://github.com/anirudhpal2807/CodeCrest)**: Built CodeCrest, a full-stack coding & contest platform with real-time leaderboards, secure code execution (Judge0 API), Monaco Editor, and AI-powered chat assistant using the MERN stack.  
-  <a href="https://codecrest-frontend.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-View%20App-green?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
+---
 
-    **[Predusk](https://github.com/anirudhpal2807/Predusk)**: Built Predusk, a modern portfolio platform with user authentication, profile customization, project showcase, skill management, and social links integration using React, TypeScript, Node.js, Express, and MongoDB.  
-  <a href="https://predusk-frontend.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-View%20App-green?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
+## 🧠 How I Build Products
 
-   **[Task manager](https://github.com/anirudhpal2807/JoyzAI)**: Built a Task Manager  dashboards, task assignment, progress tracking, and secure authentication using React, Node.js, and MongoDB.  
-  <a href="https://joyzai.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-View%20App-green?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
-
-- **[EV Charging Manager](https://github.com/anirudhpal2807/ev-manager)**: Map-based system for electric vehicle stations using Vue and Node.js.
-
-> 📂 Domains I'm passionate about: Real-time web apps, IoT integrations, and user-centric designs. Check my repos for more!
+- **User-first thinking**: Every feature starts from a clear user story and a simple, intuitive flow.
+- **Clean architecture**: I prefer modular, type-safe codebases (TypeScript, Next.js, React) with clear separation of concerns.
+- **Performance and reliability**: I focus on responsive UIs, fast APIs, proper error handling, and observability.
+- **Production mindset**: Auth, security, deployment, and monitoring are treated as first-class citizens, not afterthoughts.
+- **Learning loop**: I regularly reflect on shipped projects and upgrade them with better patterns, tooling, and DX.
 
 ---
 
