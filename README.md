@@ -1,5 +1,9 @@
 # 👨‍💻 Anirudh Pal
 
+<p align="center">
+  <img src="assets/Anirudhpal.png" alt="Anirudh Pal" width="220" />
+</p>
+
 Welcome to my GitHub profile! I'm **Anirudh Pal**, a dedicated **Full-Stack Developer**, **Software Engineer**, and **Creative Technologist** from 🇮🇳 India.
 
 I specialize in creating robust web applications, designing elegant user interfaces, and continuously learning new technologies that bridge creativity with functionality.
