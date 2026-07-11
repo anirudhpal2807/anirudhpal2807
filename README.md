@@ -1,6 +1,6 @@
 # 👨‍💻 Anirudh Pal
 <p align="center">
-  <img src="assets/Anirudhpal.png" alt="Anirudh Pal" width="300" />
+  <img src="assets/Anirudhpal.png" alt="Anirudh Pal" style="width: 100%; max-width: 760px; display: block; margin: 0 auto;" />
 </p>
 
 
