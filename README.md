@@ -1,4 +1,7 @@
 # 👨‍💻 Anirudh Pal
+<p align="center">
+  <img src="assets/Anirudhpal.png" alt="Anirudh Pal" width="220" />
+</p>
 
 <p align="center">
   <img src="assets/Anirudhpal.png" alt="Anirudh Pal" width="220" />
