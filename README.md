@@ -1,11 +1,9 @@
 # 👨‍💻 Anirudh Pal
 <p align="center">
-  <img src="assets/Anirudhpal.png" alt="Anirudh Pal" width="220" />
+  <img src="assets/Anirudhpal.png" alt="Anirudh Pal" width="300" />
 </p>
 
-<p align="center">
-  <img src="assets/Anirudhpal.png" alt="Anirudh Pal" width="220" />
-</p>
+
 
 Welcome to my GitHub profile! I'm **Anirudh Pal**, a dedicated **Full-Stack Developer**, **Software Engineer**, and **Creative Technologist** from 🇮🇳 India.
 
