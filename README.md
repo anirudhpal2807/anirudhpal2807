@@ -137,6 +137,10 @@ Explore my repositories for hands-on examples! These are the **same production p
 
 <div align="left">
 
+<p align="center">
+  <img src="assets/smartbook mark.png" alt="Smart Bookmark App thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
+</p>
+
 <h3>🧠 Smart Bookmark App</h3>
 <p>
 Real-time bookmark manager with Google OAuth, secure storage, and instant sync across devices.
@@ -146,6 +150,10 @@ Real-time bookmark manager with Google OAuth, secure storage, and instant sync a
   <a href="https://github.com/anirudhpal2807/smart-bookmark-app" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
 </p>
 <hr/>
+
+<p align="center">
+  <img src="assets/Codecrest.png" alt="CodeCrest thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
+</p>
 
 <h3>🏆 CodeCrest</h3>
 <p>
@@ -157,6 +165,10 @@ Full-stack coding and contest platform with real-time code execution, leaderboar
 </p>
 <hr/>
 
+<p align="center">
+  <img src="assets/chatapp.png" alt="Real-Time Chat Application thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
+</p>
+
 <h3>💬 Real-Time Chat Application</h3>
 <p>
 Scalable chat app with WebRTC calls, private & group chat, file sharing, and Socket.IO for realtime updates.
@@ -166,6 +178,10 @@ Scalable chat app with WebRTC calls, private & group chat, file sharing, and Soc
   <a href="https://github.com/anirudhpal2807/Chatapp" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
 </p>
 <hr/>
+
+<p align="center">
+  <img src="assets/predusk.png" alt="Predusk thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
+</p>
 
 <h3>🎨 Predusk – Portfolio Platform</h3>
 <p>
@@ -177,6 +193,10 @@ Modern portfolio platform with authentication, profile customization, project sh
 </p>
 <hr/>
 
+<p align="center">
+  <img src="assets/kanban Board.png" alt="JoyzAI Kanban Board thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
+</p>
+
 <h3>📋 JoyzAI – Kanban Board</h3>
 <p>
 Lightweight Kanban board with drag-and-drop cards for managing tasks across columns.
@@ -186,6 +206,10 @@ Lightweight Kanban board with drag-and-drop cards for managing tasks across colu
   <a href="https://github.com/anirudhpal2807/JoyzAI" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
 </p>
 <hr/>
+
+<p align="center">
+  <img src="assets/lead management.png" alt="Lead Management System thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
+</p>
 
 <h3>📈 Lead Management System</h3>
 <p>
@@ -197,6 +221,10 @@ Lead tracking dashboard with JWT auth, powerful filters, server-side pagination,
 </p>
 <hr/>
 
+<p align="center">
+  <img src="assets/map pin.png" alt="Map Pinboard Application thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
+</p>
+
 <h3>🗺️ Map Pinboard Application</h3>
 <p>
 Interactive map for pinning locations, adding notes, and exploring places with OpenStreetMap.
@@ -206,6 +234,10 @@ Interactive map for pinning locations, adding notes, and exploring places with O
   <a href="https://github.com/anirudhpal2807/Assignment_Intandem" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
 </p>
 <hr/>
+
+<p align="center">
+  <img src="assets/Document Rag Assistant.png" alt="Document RAG Assistant thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
+</p>
 
 <h3>📚 Document RAG Assistant</h3>
 <p>
@@ -217,6 +249,10 @@ AI-powered document Q&A system using RAG with Gemini, Pinecone, and LangChain.
 </p>
 <hr/>
 
+<p align="center">
+  <img src="assets/blogapp.png" alt="MERN Stack Blog Application thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
+</p>
+
 <h3>📰 MERN Stack Blog Application</h3>
 <p>
 Blog platform with JWT auth, rich text editor, image uploads, and public/private visibility controls.
@@ -226,6 +262,10 @@ Blog platform with JWT auth, rich text editor, image uploads, and public/private
   <a href="https://github.com/anirudhpal2807/BlogApp" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
 </p>
 <hr/>
+
+<p align="center">
+  <img src="assets/Inventory_System.png" alt="Inventory Management System thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
+</p>
 
 <h3>📦 Inventory Management System</h3>
 <p>
