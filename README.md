@@ -135,147 +135,129 @@ I specialize in creating robust web applications, designing elegant user interfa
 
 Explore my repositories for hands-on examples! These are the **same production projects** showcased on my portfolio site, presented in a clean, readable layout.
 
-<div align="left">
-
-<p align="center">
-  <img src="assets/smartbook mark.png" alt="Smart Bookmark App thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
-</p>
-
-<h3>🧠 Smart Bookmark App</h3>
-<p>
-Real-time bookmark manager with Google OAuth, secure storage, and instant sync across devices.
-</p>
-<p>
-  <a href="https://smart-bookmark-app-eight-mauve.vercel.app/" target="_blank" style="padding: 6px 12px; background-color:#22c55e; color:white; border-radius:6px; text-decoration:none; font-weight:600; margin-right:8px;">🔗 Live Demo</a>
-  <a href="https://github.com/anirudhpal2807/smart-bookmark-app" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
-</p>
-<hr/>
-
-<p align="center">
-  <img src="assets/Codecrest.png" alt="CodeCrest thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
-</p>
-
-<h3>🏆 CodeCrest</h3>
-<p>
-Full-stack coding and contest platform with real-time code execution, leaderboards, and AI assistant.
-</p>
-<p>
-  <a href="https://codecrest-frontend.onrender.com" target="_blank" style="padding: 6px 12px; background-color:#22c55e; color:white; border-radius:6px; text-decoration:none; font-weight:600; margin-right:8px;">🔗 Live Demo</a>
-  <a href="https://github.com/anirudhpal2807/CodeCrest" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
-</p>
-<hr/>
-
-<p align="center">
-  <img src="assets/chatapp.png" alt="Real-Time Chat Application thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
-</p>
-
-<h3>💬 Real-Time Chat Application</h3>
-<p>
-Scalable chat app with WebRTC calls, private & group chat, file sharing, and Socket.IO for realtime updates.
-</p>
-<p>
-  <a href="https://chatapp-delta-pied.vercel.app/" target="_blank" style="padding: 6px 12px; background-color:#22c55e; color:white; border-radius:6px; text-decoration:none; font-weight:600; margin-right:8px;">🔗 Live Demo</a>
-  <a href="https://github.com/anirudhpal2807/Chatapp" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
-</p>
-<hr/>
-
-<p align="center">
-  <img src="assets/predusk.png" alt="Predusk thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
-</p>
-
-<h3>🎨 Predusk – Portfolio Platform</h3>
-<p>
-Modern portfolio platform with authentication, profile customization, project showcase, and discovery features.
-</p>
-<p>
-  <a href="https://predusk-frontend.onrender.com/" target="_blank" style="padding: 6px 12px; background-color:#22c55e; color:white; border-radius:6px; text-decoration:none; font-weight:600; margin-right:8px;">🔗 Live Demo</a>
-  <a href="https://github.com/anirudhpal2807/Predusk" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
-</p>
-<hr/>
-
-<p align="center">
-  <img src="assets/kanban Board.png" alt="JoyzAI Kanban Board thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
-</p>
-
-<h3>📋 JoyzAI – Kanban Board</h3>
-<p>
-Lightweight Kanban board with drag-and-drop cards for managing tasks across columns.
-</p>
-<p>
-  <a href="https://joyzai.onrender.com/" target="_blank" style="padding: 6px 12px; background-color:#22c55e; color:white; border-radius:6px; text-decoration:none; font-weight:600; margin-right:8px;">🔗 Live Demo</a>
-  <a href="https://github.com/anirudhpal2807/JoyzAI" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
-</p>
-<hr/>
-
-<p align="center">
-  <img src="assets/lead management.png" alt="Lead Management System thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
-</p>
-
-<h3>📈 Lead Management System</h3>
-<p>
-Lead tracking dashboard with JWT auth, powerful filters, server-side pagination, and AG Grid analytics.
-</p>
-<p>
-  <a href="https://erino-assignment-iota.vercel.app/" target="_blank" style="padding: 6px 12px; background-color:#22c55e; color:white; border-radius:6px; text-decoration:none; font-weight:600; margin-right:8px;">🔗 Live Demo</a>
-  <a href="https://github.com/anirudhpal2807/Erino_Assignment" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
-</p>
-<hr/>
-
-<p align="center">
-  <img src="assets/map pin.png" alt="Map Pinboard Application thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
-</p>
-
-<h3>🗺️ Map Pinboard Application</h3>
-<p>
-Interactive map for pinning locations, adding notes, and exploring places with OpenStreetMap.
-</p>
-<p>
-  <a href="https://assignment-intandem.vercel.app/" target="_blank" style="padding: 6px 12px; background-color:#22c55e; color:white; border-radius:6px; text-decoration:none; font-weight:600; margin-right:8px;">🔗 Live Demo</a>
-  <a href="https://github.com/anirudhpal2807/Assignment_Intandem" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
-</p>
-<hr/>
-
-<p align="center">
-  <img src="assets/Document Rag Assistant.png" alt="Document RAG Assistant thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
-</p>
-
-<h3>📚 Document RAG Assistant</h3>
-<p>
-AI-powered document Q&A system using RAG with Gemini, Pinecone, and LangChain.
-</p>
-<p>
-  <a href="https://document-rag-assistant.onrender.com/" target="_blank" style="padding: 6px 12px; background-color:#22c55e; color:white; border-radius:6px; text-decoration:none; font-weight:600; margin-right:8px;">🔗 Live Demo</a>
-  <a href="https://github.com/anirudhpal2807/Document-RAG-Assistant" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
-</p>
-<hr/>
-
-<p align="center">
-  <img src="assets/blogapp.png" alt="MERN Stack Blog Application thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
-</p>
-
-<h3>📰 MERN Stack Blog Application</h3>
-<p>
-Blog platform with JWT auth, rich text editor, image uploads, and public/private visibility controls.
-</p>
-<p>
-  <a href="https://blogapp-1-3wg3.onrender.com/" target="_blank" style="padding: 6px 12px; background-color:#22c55e; color:white; border-radius:6px; text-decoration:none; font-weight:600; margin-right:8px;">🔗 Live Demo</a>
-  <a href="https://github.com/anirudhpal2807/BlogApp" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
-</p>
-<hr/>
-
-<p align="center">
-  <img src="assets/Inventory_System.png" alt="Inventory Management System thumbnail" style="width: 100%; max-width: 760px; display: block; margin: 0 auto 12px; border-radius: 12px;" />
-</p>
-
-<h3>📦 Inventory Management System</h3>
-<p>
-Inventory and sales system for material businesses with analytics dashboards and low-stock alerts.
-</p>
-<p>
-  <a href="https://insyd-2.onrender.com/login" target="_blank" style="padding: 6px 12px; background-color:#22c55e; color:white; border-radius:6px; text-decoration:none; font-weight:600; margin-right:8px;">🔗 Live Demo</a>
-  <a href="https://github.com/anirudhpal2807/Insyd" target="_blank" style="padding: 6px 12px; border:1px solid #4b5563; border-radius:6px; text-decoration:none; font-weight:600;">💻 GitHub Code</a>
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="33.33%" valign="top">
+        <p align="center">
+          <img src="assets/smartbook mark.png" alt="Smart Bookmark App thumbnail" width="100%" style="max-width: 220px; border-radius: 12px;" />
+        </p>
+        <h3 align="center">🧠 Smart Bookmark App</h3>
+        <p align="center">Real-time bookmark manager with Google OAuth, secure storage, and instant sync across devices.</p>
+        <p align="center">
+          <a href="https://smart-bookmark-app-eight-mauve.vercel.app/" target="_blank">🔗 Live Demo</a>
+          <a href="https://github.com/anirudhpal2807/smart-bookmark-app" target="_blank">💻 GitHub Code</a>
+        </p>
+      </td>
+      <td width="33.33%" valign="top">
+        <p align="center">
+          <img src="assets/Codecrest.png" alt="CodeCrest thumbnail" width="100%" style="max-width: 220px; border-radius: 12px;" />
+        </p>
+        <h3 align="center">🏆 CodeCrest</h3>
+        <p align="center">Full-stack coding and contest platform with real-time code execution, leaderboards, and AI assistant.</p>
+        <p align="center">
+          <a href="https://codecrest-frontend.onrender.com" target="_blank">🔗 Live Demo</a>
+          <a href="https://github.com/anirudhpal2807/CodeCrest" target="_blank">💻 GitHub Code</a>
+        </p>
+      </td>
+      <td width="33.33%" valign="top">
+        <p align="center">
+          <img src="assets/chatapp.png" alt="Real-Time Chat Application thumbnail" width="100%" style="max-width: 220px; border-radius: 12px;" />
+        </p>
+        <h3 align="center">💬 Real-Time Chat Application</h3>
+        <p align="center">Scalable chat app with WebRTC calls, private & group chat, file sharing, and Socket.IO for realtime updates.</p>
+        <p align="center">
+          <a href="https://chatapp-delta-pied.vercel.app/" target="_blank">🔗 Live Demo</a>
+          <a href="https://github.com/anirudhpal2807/Chatapp" target="_blank">💻 GitHub Code</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="33.33%" valign="top">
+        <p align="center">
+          <img src="assets/predusk.png" alt="Predusk thumbnail" width="100%" style="max-width: 220px; border-radius: 12px;" />
+        </p>
+        <h3 align="center">🎨 Predusk – Portfolio Platform</h3>
+        <p align="center">Modern portfolio platform with authentication, profile customization, project showcase, and discovery features.</p>
+        <p align="center">
+          <a href="https://predusk-frontend.onrender.com/" target="_blank">🔗 Live Demo</a>
+          <a href="https://github.com/anirudhpal2807/Predusk" target="_blank">💻 GitHub Code</a>
+        </p>
+      </td>
+      <td width="33.33%" valign="top">
+        <p align="center">
+          <img src="assets/kanban Board.png" alt="JoyzAI Kanban Board thumbnail" width="100%" style="max-width: 220px; border-radius: 12px;" />
+        </p>
+        <h3 align="center">📋 JoyzAI – Kanban Board</h3>
+        <p align="center">Lightweight Kanban board with drag-and-drop cards for managing tasks across columns.</p>
+        <p align="center">
+          <a href="https://joyzai.onrender.com/" target="_blank">🔗 Live Demo</a>
+          <a href="https://github.com/anirudhpal2807/JoyzAI" target="_blank">💻 GitHub Code</a>
+        </p>
+      </td>
+      <td width="33.33%" valign="top">
+        <p align="center">
+          <img src="assets/lead management.png" alt="Lead Management System thumbnail" width="100%" style="max-width: 220px; border-radius: 12px;" />
+        </p>
+        <h3 align="center">📈 Lead Management System</h3>
+        <p align="center">Lead tracking dashboard with JWT auth, powerful filters, server-side pagination, and AG Grid analytics.</p>
+        <p align="center">
+          <a href="https://erino-assignment-iota.vercel.app/" target="_blank">🔗 Live Demo</a>
+          <a href="https://github.com/anirudhpal2807/Erino_Assignment" target="_blank">💻 GitHub Code</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="33.33%" valign="top">
+        <p align="center">
+          <img src="assets/map pin.png" alt="Map Pinboard Application thumbnail" width="100%" style="max-width: 220px; border-radius: 12px;" />
+        </p>
+        <h3 align="center">🗺️ Map Pinboard Application</h3>
+        <p align="center">Interactive map for pinning locations, adding notes, and exploring places with OpenStreetMap.</p>
+        <p align="center">
+          <a href="https://assignment-intandem.vercel.app/" target="_blank">🔗 Live Demo</a>
+          <a href="https://github.com/anirudhpal2807/Assignment_Intandem" target="_blank">💻 GitHub Code</a>
+        </p>
+      </td>
+      <td width="33.33%" valign="top">
+        <p align="center">
+          <img src="assets/Document Rag Assistant.png" alt="Document RAG Assistant thumbnail" width="100%" style="max-width: 220px; border-radius: 12px;" />
+        </p>
+        <h3 align="center">📚 Document RAG Assistant</h3>
+        <p align="center">AI-powered document Q&A system using RAG with Gemini, Pinecone, and LangChain.</p>
+        <p align="center">
+          <a href="https://document-rag-assistant.onrender.com/" target="_blank">🔗 Live Demo</a>
+          <a href="https://github.com/anirudhpal2807/Document-RAG-Assistant" target="_blank">💻 GitHub Code</a>
+        </p>
+      </td>
+      <td width="33.33%" valign="top">
+        <p align="center">
+          <img src="assets/blogapp.png" alt="MERN Stack Blog Application thumbnail" width="100%" style="max-width: 220px; border-radius: 12px;" />
+        </p>
+        <h3 align="center">📰 MERN Stack Blog Application</h3>
+        <p align="center">Blog platform with JWT auth, rich text editor, image uploads, and public/private visibility controls.</p>
+        <p align="center">
+          <a href="https://blogapp-1-3wg3.onrender.com/" target="_blank">🔗 Live Demo</a>
+          <a href="https://github.com/anirudhpal2807/BlogApp" target="_blank">💻 GitHub Code</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center" valign="top">
+        <div style="max-width: 260px; margin: 0 auto;">
+        <p align="center">
+          <img src="assets/Inventory_System.png" alt="Inventory Management System thumbnail" width="100%" style="max-width: 220px; border-radius: 12px;" />
+        </p>
+        <h3 align="center">📦 Inventory Management System</h3>
+        <p align="center">Inventory and sales system for material businesses with analytics dashboards and low-stock alerts.</p>
+        <p align="center">
+          <a href="https://insyd-2.onrender.com/login" target="_blank">🔗 Live Demo</a>
+          <a href="https://github.com/anirudhpal2807/Insyd" target="_blank">💻 GitHub Code</a>
+        </p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 > 📂 Domains I'm passionate about: Real-time web apps, AI-powered tools, IoT integrations, and user-centric designs. Check my repos for more!
